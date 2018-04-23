@@ -1,3 +1,5 @@
+![stability-wip](https://img.shields.io/badge/stability-work_in_progress-lightgrey.svg)
+
 # Codefights Arcade
 
 You can practice your coding skills in Codefights Arcade section.
